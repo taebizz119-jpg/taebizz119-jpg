@@ -10,7 +10,7 @@
   - 서로의 첫인상을 그려 Multipeer Connectivity 기술로 공유하는 앱
   - AppStore 출시 ([🔗링크](https://apps.apple.com/kr/app/id6802236794))
   - 개발 및 프로젝트 매니징
-  - CBL의 E.L.C 기반으로 업데이트 중 ([🔗링크](https://miro.com/app/live-embed/uXjVHwwkmDw=/?embedMode=view_only_without_ui&moveToViewport=4878%2C-3644%2C4091%2C3708&embedId=487220890812))
+  - CBL의 E.L.C. 기반으로 업데이트 중 ([🔗링크](https://miro.com/app/live-embed/uXjVHwwkmDw=/?embedMode=view_only_without_ui&moveToViewport=4878%2C-3644%2C4091%2C3708&embedId=487220890812))
  
 ## 프로젝트 / Projects
 
