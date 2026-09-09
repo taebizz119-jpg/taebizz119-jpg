@@ -26,6 +26,10 @@
 ### Claude Academy [🔗링크](https://academy.claude.com/)
 
 - Claude Academy 정독 중...
+- 학습 로드맵
+  - AI Fluency: Framework & Foundations
+  - Claude Cowork
+  - Understand how AI behaves
 
 ### Swift.org
 
