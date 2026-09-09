@@ -25,7 +25,7 @@
 
 ### Claude Academy [🔗링크](https://academy.claude.com/)
 
- Claude Academy 정독 중...
+- Claude Academy 정독 중...
 
 ### Swift.org
 
