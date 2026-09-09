@@ -10,6 +10,7 @@
   - 서로의 첫인상을 그려 Multipeer Connectivity 기술로 공유하는 앱
   - AppStore 출시 ([🔗링크](https://apps.apple.com/kr/app/id6802236794))
   - 개발 및 프로젝트 매니징
+  - CBL의 E.L.C 기반으로 업데이트 중 ([🔗링크](https://miro.com/app/live-embed/uXjVHwwkmDw=/?embedMode=view_only_without_ui&moveToViewport=4878%2C-3644%2C4091%2C3708&embedId=487220890812))
  
 ## 프로젝트 / Projects
 
@@ -17,7 +18,8 @@
 
 - 간호사의 스케줄을 자동으로 배정하는 시스템
 - Claude를 사용하여 Agentic Coding
-- Python, CP-SAT Solver, Electron, Supabase
+- Python, CP-SAT Solver, Electron, Supabase, Vercel
+- Apple developer Academy Foundation 수료 후 UI update 중
 
 ## 자기계발
 
@@ -26,3 +28,12 @@
 - 학습 로드맵
   - AI Fluency: Framework & Foundations
   - Claude Cowork
+  - Understand how AI behaves
+
+### Swift.org
+
+- 레포지토리로 기록 중...
+
+### SwiftUI
+
+- 레포지토리로 기록 중...
