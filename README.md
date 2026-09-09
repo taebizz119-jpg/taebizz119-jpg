@@ -31,10 +31,15 @@
   - Claude Cowork
   - Understand how AI behaves
 
-### Swift.org
+### Swift
 
-- 레포지토리로 기록 중...
+- [레포지토리](https://github.com/taebizz119-jpg/swift-study)로 기록 중...
+- 학습 로드맵
+  - Swift Playground 코딩배우기 1 완료
+  - Swift API Design Guideline 정독 중...
 
 ### SwiftUI
 
-- 레포지토리로 기록 중...
+- 학습 로드맵
+  - https://developer.apple.com/tutorials/develop-in-swift/
+  - SwiftUI, Data Modeling
