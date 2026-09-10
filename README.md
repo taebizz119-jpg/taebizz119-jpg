@@ -42,4 +42,4 @@
 
 - 학습 로드맵
   - https://developer.apple.com/tutorials/develop-in-swift/
-  - SwiftUI, Data Modeling
+  - SwiftUI, Data Modeling 완료
